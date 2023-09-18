@@ -1,0 +1,35 @@
+{
+    "ID del libro": "012345",
+    "Título": "Cien años de soledad",
+    "Autor": "Gabriel García Márquez",
+    "ISBN": "978-0307350428",
+    "Fecha de publicación": "1967-05-30",
+    "Género": "Realismo mágico",
+    "Editorial": "Editorial Sudamericana",
+    "Ubicación en la biblioteca": "Ficción Latinoamericana"
+  }
+  
+
+  {
+    "ID del libro": "456789",
+    "Título": "El señor de los anillos",
+    "Autor": "J.R.R. Tolkien",
+    "ISBN": "978-8415178692",
+    "Fecha de publicación": "1954-07-29",
+    "Género": "Fantasía",
+    "Editorial": "Minotauro",
+    "Ubicación en la biblioteca": "Fantasía Épica"
+  }
+  
+
+  {
+    "ID del libro": "789654",
+    "Título": "To Kill a Mockingbird",
+    "Autor": "Harper Lee",
+    "ISBN": "978-0446310789",
+    "Fecha de publicación": "1960-07-11",
+    "Género": "Novela social",
+    "Editorial": "J. B. Lippincott & Co.",
+    "Ubicación en la biblioteca": "Literatura Americana"
+  }
+  
